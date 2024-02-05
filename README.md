@@ -11,6 +11,8 @@ To run the code in this repository, follow these steps:
 ```
 git clone git@github.com:Mahsarnzh/NLP_customer_sentiment_analysis.git
 ```
+
+Navigate to NLP_customer_sentiment_analysis repository:
 ```
 cd NLP_customer_sentiment_analysis
 ```
