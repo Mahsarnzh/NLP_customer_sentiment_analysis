@@ -1,6 +1,6 @@
 # Sentiment Analysis with BERT
 
-This repository demonstrates sentiment analysis using the BERT model with the `transformers` library.
+This repository demonstrates a very simple example of sentiment analysis using the BERT model with the `transformers` library.
 
 ## Installation
 
