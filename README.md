@@ -15,6 +15,7 @@ git clone git@github.com:Mahsarnzh/NLP_customer_sentiment_analysis.git
 cd NLP_customer_sentiment_analysis
 ```
 
+Install the requirements:
 ```
 pip3 install torch
 pip3 install transformers
