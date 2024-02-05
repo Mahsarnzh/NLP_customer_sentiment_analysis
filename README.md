@@ -4,8 +4,18 @@ This repository demonstrates sentiment analysis using the BERT model with the `t
 
 ## Installation
 
-To run the code in this repository, you need to install the necessary dependencies. Use the following commands:
+To run the code in this repository, follow these steps:
 
-```bash
+1. Clone the repository:
+
+```
+git clone git@github.com:Mahsarnzh/NLP_customer_sentiment_analysis.git
+```
+```
+cd NLP_customer_sentiment_analysis
+```
+
+```
 pip3 install torch
 pip3 install transformers
+python3 python3 NLP_cus_sent_anal.py
