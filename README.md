@@ -18,4 +18,9 @@ cd NLP_customer_sentiment_analysis
 ```
 pip3 install torch
 pip3 install transformers
+```
+
+Run the code:
+```
 python3 python3 NLP_cus_sent_anal.py
+```
